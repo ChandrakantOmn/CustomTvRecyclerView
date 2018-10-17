@@ -44,6 +44,7 @@
     <TextView
         android:id="@+id/tv_focus"
         android:layout_width="363dp"
+        android:padding="4dp"
         android:layout_height="wrap_content"
         android:layout_alignLeft="@id/im_rl"
         android:layout_below="@id/im_rl"
@@ -51,6 +52,7 @@
         android:layout_marginTop="3dp"
         android:ellipsize="marquee"
         android:gravity="center"
+        android:singleLine="true"
         android:maxLines="1"
         android:textColor="@drawable/text_color_selector"
         android:textSize="30px"/>

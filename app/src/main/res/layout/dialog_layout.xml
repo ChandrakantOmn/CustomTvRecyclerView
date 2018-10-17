@@ -17,7 +17,7 @@
 
             <TextView
                 style="@style/dialog_item_text"
-                android:text="视频通话"/>
+                android:text="video call"/>
         </com.songwenju.customtvrecyclerview.widget.FocusVerticalLinearLayout>
 
         <com.songwenju.customtvrecyclerview.widget.FocusVerticalLinearLayout
@@ -34,7 +34,7 @@
 
             <TextView
                 style="@style/dialog_item_text"
-                android:text="视频通话"/>
+                android:text="video call"/>
         </com.songwenju.customtvrecyclerview.widget.FocusVerticalLinearLayout>
 
 

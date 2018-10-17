@@ -146,15 +146,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
         mChannelList = new ArrayList<>();
 
-        mChannelList.add("少儿频道");
-        mChannelList.add("音乐频道");
-        mChannelList.add("电视剧频道");
-        mChannelList.add("电影频道");
-        mChannelList.add("新闻频道");
-        mChannelList.add("综艺频道");
-        mChannelList.add("体育频道");
-        mChannelList.add("科教频道");
-        mChannelList.add("国际频道");
+        mChannelList.add("Children's channel");
+        mChannelList.add("Music channel");
+        mChannelList.add("TV channel");
+        mChannelList.add("Movie channel");
+        mChannelList.add("news channel");
+        mChannelList.add("Variety channel");
+        mChannelList.add("Sports channel");
+        mChannelList.add("Science and education channel");
+        mChannelList.add("International channel");
 
         mCategoryBtn.setText(mChannelList.get(3));
         SpUtil.putInt(Constants.CATEGORY_POP_SELECT_POSITION, 3);
